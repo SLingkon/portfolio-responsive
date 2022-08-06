@@ -1,3 +1,3 @@
 # portfolio-responsive
 This is my responsive portfolio website
-Open this slingkon.github.io/portfolio-responsive to check...
+[Open this to check...](slingkon.github.io/portfolio-responsive)
